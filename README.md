@@ -2,13 +2,13 @@
 
 记录一些常使用的 css 知识点
 
-[CSS-knowledge](https://github.com/HtmlCss3/CSS-knowledge)
+[css-knowledge](https://github.com/HtmlCss3/css-knowledge)
 
 ## 快速上手
 
 ```
 # clone the project
-git clone https://github.com/HtmlCss3/CSS-knowledge.git
+git clone https://github.com/HtmlCss3/css-knowledge.git
 
 # install dependency
 npm install
