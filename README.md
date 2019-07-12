@@ -8,13 +8,13 @@
 
 ```
 # clone the project
-git clone https://github.com/TaleLin/lin-cms-vue.git
+git clone https://github.com/HtmlCss3/CSS-knowledge.git
 
 # install dependency
 npm install
 ```
 
-## 版本日志
+## 更新日志
 
 ### 20190712
 
